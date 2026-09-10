@@ -1,0 +1,28 @@
+# Jewelry E-Commerce Store – Version 1.0
+
+## Overview
+The Jewelry E-Commerce Store is an online shopping platform that allows
+customers to browse and purchase jewelry products.
+
+## Version 1.0 Features
+
+### Product Management
+- Display jewelry products such as rings, necklaces, earrings, and bracelets.
+- Show product name, price, image, and basic description.
+- Organize products into different categories.
+
+### Customer Features
+- Browse available jewelry products.
+- View product details.
+- Add products to the shopping cart.
+- Remove products from the shopping cart.
+- View the total price of selected products.
+
+### Order Management
+- Place an order for selected jewelry items.
+- Enter basic customer and delivery information.
+- Display order confirmation.
+
+## Version Information
+Version 1.0 provides the basic functionality required for
+browsing jewelry products and placing orders.
